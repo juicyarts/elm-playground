@@ -1,0 +1,15 @@
+{
+  "rust.cargoPath": "/Users/hy/.cargo/bin/cargo",
+  "rust.cargoHomePath": "/Users/hy/.cargo",
+  "rust.rustfmtPath": "/Users/hy/.cargo/bin/rustfmt",
+  "rust.rustsymPath": "/Users/hy/.cargo/bin/rustsym",
+  "rust.rustLangSrcPath": "/Users/hy/.rustup/toolchains/nightly-x86_64-apple-darwin/lib/rustlib/src/rust/src",
+  "rust.mode": "rls",
+  "rust.rls": {
+    "executable": "/Users/hy/.cargo/bin/rls",
+    "useRustfmt": true
+  },
+  "elm.compiler": "./node_modules/.bin/elm",
+  "elm.makeCommand": "./node_modules/.bin/elm-make",
+  "elm.analyseCommand": "./node_modules/.bin/elm-analyse"
+}
